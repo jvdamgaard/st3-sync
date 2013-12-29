@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"AlignTab",
+		"Chai Completions",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Snippets",
+		"jQuery",
+		"Markdown Extended",
+		"Monokai Extended",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-scss-lint",
+		"Theme - Soda",
+		"Vanilla lodash Snippets",
+		"Zen Tabs"
+	]
+}
