@@ -9,7 +9,7 @@ Sublime Text 3 settings sync
 
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3//Packages/
-rm r user
+rm -r user
 mkdir user && cd user
 git clone git@github.com:jvdamgaard/st3-sync.git .
 ```
