@@ -17,7 +17,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 - Open terminal
 
 ```
-cd ~/Library/Application Support/Sublime Text 3/Packages/User/
+cd ~/Library/Application\ Support/Sublime\ Text\ 3//Packages/User/
 git clone git@github.com:jvdamgaard/st3-sync.git .
 ```
 
