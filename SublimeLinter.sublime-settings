@@ -5,7 +5,7 @@
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "load/save",
+        "lint_mode": "background",
         "linters": {
             "annotations": {
                 "@disable": false,
@@ -19,7 +19,22 @@
                     "README"
                 ]
             },
+            "htmltidy": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "scss": {
                 "@disable": false,
                 "args": [],
                 "excludes": []

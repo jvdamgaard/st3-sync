@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AlignTab",
+		"Bootstrap 3 Jade Snippets",
 		"Chai Completions",
 		"CSScomb",
 		"DocBlockr",
@@ -9,6 +10,7 @@
 		"GitGutter",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
+		"Jade",
 		"JavaScript Snippets",
 		"jQuery",
 		"Markdown Extended",
