@@ -21,10 +21,10 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-scss-lint",
 		"Theme - Soda",
 		"Vanilla lodash Snippets",
 		"Zen Tabs"

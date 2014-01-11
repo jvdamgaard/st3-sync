@@ -1,8 +1,5 @@
-
-Package Control.cache
-
+*.cache
 Package Control.last-run
-
 Package Control.system-ca-bundle
-
 Side Bar.sublime-settings
+Preferences.sublime-settings
