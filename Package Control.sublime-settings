@@ -25,6 +25,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-scss-lint",
 		"Theme - Soda",
 		"Vanilla lodash Snippets",
 		"Zen Tabs"
