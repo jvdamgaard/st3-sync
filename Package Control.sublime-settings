@@ -6,6 +6,7 @@
 		"Chai Completions",
 		"CSScomb",
 		"DocBlockr",
+		"EasyMotion",
 		"Emmet",
 		"GitGutter",
 		"Handlebars",
@@ -23,8 +24,10 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-html-tidy",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-scss-lint",
 		"Theme - Soda",
 		"Vanilla lodash Snippets",
 		"Zen Tabs"
