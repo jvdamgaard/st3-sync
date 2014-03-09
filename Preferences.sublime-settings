@@ -1,39 +1,47 @@
 {
-    "default_encoding": "UTF-8",
-    "bold_folder_labels": true,
-    "color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
-    "detect_indentation": false,
-    "font_size": 15,
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "ignored_packages": [
-        "Vintage"
-    ],
-    "line_padding_bottom": 6,
-    "open_files_in_new_window": false,
-    "rulers": [
-        80
-    ],
-    "scroll_past_end": true,
-    "tab_size": 4,
-    "theme": "Soda Dark 3.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "file_exclude_patterns": [
-        ".DS_Store",
-        "Desktop.ini",
-        "*.pyc",
-        "._*",
-        "Thumbs.db",
-        ".Spotlight-V100",
-        ".Trashes"
-    ],
-    "folder_exclude_patterns": [
-        ".git",
-        "node_modules"
-    ],
-    "hot_exit": false,
-    "match_brackets": true,
-    "match_brackets_angle": true,
-    "remember_open_files": false
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"Desktop.ini",
+		"*.pyc",
+		"._*",
+		"Thumbs.db",
+		".Spotlight-V100",
+		".Trashes"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules",
+		"out",
+		"dist",
+		".tmp"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 6,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"open_files_in_new_window": false,
+	"remember_open_files": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
