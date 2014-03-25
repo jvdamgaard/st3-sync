@@ -11,6 +11,7 @@
 		"eco",
 		"Emmet",
 		"GitGutter",
+		"Gutter Color",
 		"Handlebars",
 		"Jade",
 		"JavaScript Snippets",
@@ -31,8 +32,10 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"Theme - Soda",
+		"ToggleQuotes",
 		"Tomorrow Color Schemes",
 		"Vanilla lodash Snippets",
+		"Wrap Plus",
 		"Zen Tabs"
 	]
 }
