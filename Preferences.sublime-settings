@@ -24,7 +24,8 @@
 		".git",
 		".tmp",
 		"node_modules",
-		"coverage"
+		"coverage",
+		"dist"
 	],
 	"font_size": 14,
 	"highlight_line": true,
@@ -32,7 +33,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Zen Tabs"
 	],
 	"line_padding_bottom": 6,
 	"match_brackets": true,
