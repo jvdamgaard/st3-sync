@@ -12,20 +12,11 @@
 		"._*",
 		"Thumbs.db",
 		".Spotlight-V100",
-		".Trashes",
-		".jsbeautifyrc",
-		".jscsrc",
-		".jshintignore",
-		".jshintrc",
-		".jscs.json"
+		".Trashes"
 	],
 	"folder_exclude_patterns":
 	[
-		".git",
-		".tmp",
-		"node_modules",
-		"coverage",
-		"dist"
+		".git"
 	],
 	"font_size": 14,
 	"highlight_line": true,
