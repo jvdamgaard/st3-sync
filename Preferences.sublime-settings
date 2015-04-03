@@ -24,8 +24,12 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Go",
+		"GoSublime",
 		"Vintage",
-		"Zen Tabs"
+		"LiveReload",
+		"Zen Tabs",
+		"SublimeLinter-contrib-scss-lint"
 	],
 	"line_padding_bottom": 6,
 	"match_brackets": true,

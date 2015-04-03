@@ -1,10 +1,18 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AlignTab",
 		"ASCII Decorator",
-		"Bootstrap 3 Jade Snippets",
 		"Chai Completions",
+		"Color Highlighter",
 		"CSScomb",
 		"DocBlockr",
 		"EasyMotion",
@@ -12,7 +20,7 @@
 		"EJS",
 		"Emmet",
 		"GitGutter",
-		"Gutter Color",
+		"GoSublime",
 		"Handlebars",
 		"Jade",
 		"JavaScript Snippets",
@@ -24,6 +32,7 @@
 		"Markdown Extended",
 		"Markdown Preview",
 		"Monokai Extended",
+		"Package Control",
 		"SassBeautify",
 		"SCSS",
 		"SideBarEnhancements",
